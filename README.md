@@ -6,15 +6,15 @@ This project was completed as part of my **summer internship at Tata Motors, Jam
 
 ## 📁 Repository Structure
 
-compressor-ml-tata/
+compressor-data-analysis/
 │
-├── notebooks/ # Real-time compressor data & code from internship
-│ ├── compressor_analysis.ipynb
-│ └── real_time_dataset.csv
+├── real time data analysis/ # Real-time compressor data & code from internship
+│ ├── compressor_data_.ipynb
+│ └── final data compressor.csv
 │
-├── benchmarking-data/ # Clean dataset used for model benchmarking
-│ ├── benchmark_model.ipynb
-│ └── benchmark_dataset.csv
+├── benchmarking model/ # Clean dataset used for model benchmarking
+│ ├── compressor_prediction_.ipynb
+│ └── aircompressor.csv
 │
 └── README.md # This file
 
