@@ -3,12 +3,12 @@
 This folder contains the primary code and dataset used during my summer internship at Tata Motors, Jamshedpur. The objective was to analyze compressor energy efficiency and predict potential failures using real-time sensor data and machine learning techniques.
 
 ## 📄 Contents
-- `compressor_analysis.ipynb` — Jupyter notebook implementing the end-to-end ML pipeline
-- `real_time_dataset.csv` — Raw data collected from compressor units (anonymized)
+- `compressor_data.ipynb` — Jupyter notebook implementing the end-to-end ML pipeline
+- `final data compressor.csv` — Raw data collected from compressor units (anonymized)
 
 ## 🔧 Tools & Libraries Used
 - Python (Pandas, NumPy, Scikit-learn, Matplotlib)
-- Neural networks using Keras (optional if used)
+- Neural networks using Keras 
 - Data preprocessing and feature engineering
 
 ## 🧠 Key Tasks
